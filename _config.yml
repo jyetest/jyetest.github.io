@@ -17,25 +17,25 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "vladsiv"
+title                    : "Mr"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "vladsiv"
+name                     : "Jianlin"
 port                     : 4000
 host                     : "0.0.0.0"
-description              : "A blog discussing topics around programming, data science/engineering, and cloud technologies."
-url                      : https://www.vladsiv.com
+description              :  &description "Software Engineer"
+url                      : https://jyetest.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 160
 comments:
   provider               : 'disqus'
   disqus:
-    shortname            : 'vladsiv'
+    shortname            : 'Jianlin'
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -74,7 +74,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : 5qmVAoKbvLFrdg67H4uC3o7zWXM4UQKYdJnWrye8KFc
+google_site_verification : 
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -82,7 +82,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : vlad_siv
+  username               : Kristian2000266
 facebook:
   username               :
   app_id                 :
@@ -99,36 +99,36 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : "G-S3HVB75N7H"
-    anonymize_ip         : true
+    tracking_id          : #"G-S3HVB75N7H"
+    anonymize_ip         : #true
 
 
 # Site Author
 author:
-  name             : "Vladsiv"
+  name             : "Jianlin"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Theoretical physicist & biophysicist interested in programming, data science/engineering, and cloud technologies - currently working as a Data Engineer."
-  location         : "Belgrade, Serbia"
-  email            : "vladsiv@protonmail.com"
+  bio              : "Software Engineer"
+  location         : "Nicosia, CY"
+  email            : "jye2020 at yahoo dot com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/VladimirSiv
+      url: https://github.com/jyetest
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/vlad__siv/
+      url: https://www.instagram.com/uncle_lin9/
     - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: https://stackoverflow.com/users/10947997/vlad-siv
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://rs.linkedin.com/in/vladimirsiv
+      url: https://rs.linkedin.com/in/kristian-ye-58a94922b
     - label: "HackerNews"
       icon: "fab fa-fw fa-hacker-news"
-      url: https://news.ycombinator.com/user?id=vladsiv
+      url: https://news.ycombinator.com/user?id=jye
     - label: "RSS"
       icon: "fa fa-fw fa-rss"
-      url: https://www.vladsiv.com/feed.xml
+      url: https://jyetest.github.io/feed.xml
 
 # Site Footer
 footer:
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      # url: https://github.com/VladimirSiv
+      # url: https://github.com/JYe9
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -153,10 +153,10 @@ footer:
       # url:
     - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow fa-lg"
-      # url: https://stackoverflow.com/users/10947997/vlad-siv
+      # url: https://stackoverflow.com/users/10947997/jye
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-lg"
-      # url: https://rs.linkedin.com/in/vladimirsiv
+      # url: https://rs.linkedin.com/in/kristian-ye-58a94922b
 
 
 # Reading Files
