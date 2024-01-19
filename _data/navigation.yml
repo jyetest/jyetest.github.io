@@ -1,12 +1,35 @@
-# main links
+# # main links
+# main:
+#   - title: "Home"
+#     url: /
+#   - title: "Cool Links"
+#     url: /cool-links/
+#   - title: "Publications"
+#     url: /publications/
+#   - title: "Archive"
+#     url: /archive/
+#   - title: "About"
+#     url: /about/
+
+    # main links links
 main:
-  - title: "Home"
-    url: /
-  - title: "Cool Links"
-    url: /cool-links/
+  - title: "Blog Posts"
+    url: /year-archive/
+  
   - title: "Publications"
     url: /publications/
-  - title: "Archive"
-    url: /archive/
-  - title: "About"
-    url: /about/
+
+  - title: "Talks"
+    url: /talks/      
+    
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Schedule"
+    url: /schedule/
+
+  - title: "Dashboard"
+    url: /dashboard/
+  
+  - title: "Contact"
+    url: /contact/
